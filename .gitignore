@@ -1,0 +1,8 @@
+*
+!.gitignore
+#STM32L475*
+#.*
+!/Core/Src
+#/Debug
+#/Drivers
+#test*
