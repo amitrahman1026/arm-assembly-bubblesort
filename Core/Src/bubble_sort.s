@@ -1,8 +1,6 @@
 /*
  * bubble_sort.s
  *
- *  Created: Sem 1 Ay2022/2023
- *  Authors: Ni Qingqing & Henry Tan
  */
    .syntax unified
 	.cpu cortex-m4
