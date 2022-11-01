@@ -11,8 +11,6 @@
 @ Start of executable code
 .section .text
 
-@ CG2028 Assignment
-@ (c) ECE NUS, 2022
 @ Bubble sort any given array in ascending order
 
 @ Enter Student 1’s Name here: Amit Rahman
