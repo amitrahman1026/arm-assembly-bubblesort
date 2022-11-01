@@ -13,9 +13,6 @@
 
 @ Bubble sort any given array in ascending order
 
-@ Enter Student 1’s Name here: Amit Rahman
-@ Enter Student 2’s Name here: Chen Zi Han
-
 @ Enter registers look-up table here:
 @ R0 ... arr*, return swapCounter
 @ R1 ... size of array
